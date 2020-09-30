@@ -64,6 +64,11 @@ public class Locators {
 		//Child Parent Traversing syntax
 		// //*[@attribute='attribute value']/parent::tagName
 		
+		
+		//Regular Expression Xpath  Syntax: //*[contains(@attribute='attribute value')]
+		
+		// Regular expression CSS  SYntax: [attribute*='attribute Value']
+		
 		chrome.close();
 	}
 
